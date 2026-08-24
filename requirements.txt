@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+sympy
+streamlit
+jupyter
+nbformat
+nbclient
