@@ -92,3 +92,11 @@ Ou onde está localizado o arquivo, antes de executar os comandos no terminal, p
 A capacidade teórica de 50 req/s não deve ser interpretada como uma capacidade segura de operação. O modelo mostra que o desempenho já se torna crítico antes desse ponto.
 
 Recomenda-se preservar margem de capacidade e investigar escalabilidade horizontal/vertical, balanceamento de carga, cache, otimização de consultas e processamento assíncrono conforme os gargalos observados em medições reais.
+
+| Nome:| RM:|
+| ---:| ---:|
+|Kaick Lima Silva       | 574060 |
+|Gustavo Basso          | 572623 |
+|Guilherme Salles       | 572933 |
+|Pedro Feltrin          | 569038 |
+|Guilherme Kozikoski    | 571611 |
