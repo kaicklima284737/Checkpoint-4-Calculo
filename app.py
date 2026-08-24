@@ -16,6 +16,7 @@ st.markdown(
     <style>
 
     * {
+        background-color: #10101010;
         font-family: 'Arial', sans-serif;
         font-size: 1.8rem;
     }
@@ -43,7 +44,7 @@ st.markdown(
     .details {
         font-size: 1.7rem;
         margin-top: 0.5rem;
-        background-color: #f0f0f0;
+        background-color: ;
         padding: 0.8rem;
         border-radius: 8px;
     }
@@ -97,6 +98,13 @@ with st.container(border=True):
         '</div>',
         unsafe_allow_html=True,
     )
+st.markdown(
+    '<div class="Descrição">'
+        'A operação do sistema conectado com API varia de acordo com o número de requisições por segundo. Com base nisso, deve-se ' 
+        'entender como o limite lateral é de extrema importância para o desempenho do sistema e encontrar o ponto de máximo proveito.'
+    '</div>',
+    unsafe_allow_html=True,
+)
 
 
 st.markdown("### 🎚️ Controle de carga")
